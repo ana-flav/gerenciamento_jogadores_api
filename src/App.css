@@ -1,0 +1,8 @@
+.btn:hover{
+    box-shadow: 0 0 0 0.2rem rgba(41, 124, 41, 0.25);
+    transition: box-shadow 0.3s ease-in-out;
+}
+.botao:hover{
+    box-shadow: 0 0 0 0.2rem rgba(153, 70, 70, 0.25);
+    transition: box-shadow 0.3s ease-in-out;
+}
